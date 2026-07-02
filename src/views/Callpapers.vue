@@ -161,13 +161,14 @@
             applicable.
           </li>
         </ul>
-
+         
         <address>
           <span style="font-size: 10pt"
             ># No paper will be accepted without screening review and technical
             review process</span
           >
         </address>
+        
         <address>
           <span style="font-size: 10pt"
             >* Full length papers shall be submitted in order to consider the
@@ -190,29 +191,35 @@
             possibilities for wrong plagiarism results, hence ICPC2T encourages
             the authors to take sole responsibility for plagiarism when they are
             ready to submit their papers.</span
-          >
+          >font-weight: bold
+        </address><address>
+
         </address>
         <div><span>&nbsp;</span></div>
         <p>
           <span><strong>For further details please contact,</strong></span>
         </p>
         <p>
-          <span><strong>The Organizing Chair,</strong></span
-          ><br />
+          <span><strong>The Organizing Chair,</strong></span><br />
           <span>ICPC2T 2027,</span><br />
           <span>National Institute of Technology,</span><br />
-          <span> Raipur, Chhattisgarh, India.</span><br />
+          <span>Raipur, Chhattisgarh, India.</span><br />
 
-          <span
-            >E-mail:
-            <a href="mailto:icpc2t_2027@nitrr.ac.in"
-              > icpc2t_2027@nitrr.ac.in</a
-            ></span
-          >
+          <span>
+            E-mail:
+            <a href="mailto:icpc2t_2027@nitrr.ac.in">
+              icpc2t_2027@nitrr.ac.in
+            </a>
+          </span>
         </p>
-      </div>
-      <p></p>
-    </div>
+
+      </div> <!-- End of card -->
+        <!-- Microsoft CMT Notice -->
+
+    </div> <!-- End of row -->
+
+
+
   </div>
 </template>
 
@@ -221,4 +228,3 @@ export default {
   name: "Callpapers",
 };
 </script>
-s

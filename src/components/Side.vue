@@ -53,10 +53,10 @@
                   <!-- Registration Details: <a href="./Registration.docx" target="_blank" style="color: blue;">Click here for Registration Details</a><br /><br /> -->
                   Registration Details: <a  target="_blank" style="color: blue;">Coming soon</a><br /><br />
                   Paper Submission starts: 1<sup>st</sup> May, 2026<br /><br />
-                  Deadline for Full Paper Submission: 1<sup>st</sup> October, 2026<br /><br />
-                  Acceptance Notification: 15<sup>th</sup> November, 2026<br /><br />
-                  Camera Ready Paper Submission: 20<sup>th</sup> January, 2026<br /><br />
-                  Registration Deadline: 31<sup>st</sup> January, 2026<br /><br />
+                  Deadline for Full Paper Submission: 30<sup>th</sup> November, 2026<br /><br />
+                  Acceptance Notification: 15<sup>th</sup> December, 2026<br /><br />
+                  Camera Ready Paper Submission: 15<sup>th</sup> January, 2027<br /><br />
+                  Registration Deadline: 15<sup>th</sup> January, 2027<br /><br />
                 </marquee>
               </td>
             </tr>
@@ -85,15 +85,15 @@
             </tr>
             <tr>
               <td><strong>Deadline for Full Paper Submission:</strong></td>
-              <td>1<sup>st</sup> October, 2026</td>
+              <td>30<sup>th</sup> November, 2026</td>
             </tr>
             <tr>
               <td><strong>Acceptance Notifications:</strong></td>
-              <td>15<sup>th</sup> November, 2026</td>
+              <td>15<sup>th</sup> December, 2026</td>
             </tr>
             <tr>
               <td><strong>Camera Ready Paper Submission:</strong></td>
-              <td>15<sup>th</sup> December, 2026</td>
+              <td>15<sup>th</sup> January, 2027</td>
             </tr>
             <tr>
               <td><strong>Registration deadline:</strong></td>

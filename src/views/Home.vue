@@ -93,7 +93,12 @@
             </li>
           </ul>
         </div>
-
+<div class="cmt-notice">
+        The Microsoft CMT service was used for managing the peer-reviewing process
+        for this conference. This service was provided for free by Microsoft and
+        they bore all expenses, including costs for Azure cloud services as well
+        as for software development and support.
+      </div>
       </div>
     </div>
 
@@ -184,6 +189,9 @@ h2,h4 {
     width: 100%;
   }
   
+}
+.cmt-notice {
+  position: relative; /* Adjust the value as needed */
 }
 </style>
 
